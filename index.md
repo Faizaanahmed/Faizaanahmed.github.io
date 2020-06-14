@@ -701,6 +701,11 @@
     
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    <script src="https://cdn.cai.tools.sap/webchat/webchat.js"
+channelId="60f07e47-c0bc-4bda-b11c-769311e86426"
+token="2ef59dd1e0521ad43c1373aae96e97be"
+id="cai-webchat"
+></script>
 
     <script src="js/main.js"></script>
   </body>
